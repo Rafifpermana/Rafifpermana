@@ -96,19 +96,6 @@ High-performance REST API built with Go and Fiber framework.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafifpermana&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafifpermana&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafifpermana&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 ### 🎓 Education
@@ -144,13 +131,3 @@ High-performance REST API built with Go and Fiber framework.
 - Strengthened teamwork and student participation across the school
 
 ---
-
-## 🌱 Currently Learning
-
-```javascript
-const currentFocus = {
-  backend: ['Advanced Node.js', 'Laravel Best Practices'],
-  ai: ['Machine Learning', 'Natural Language Processing'],
-  devops: ['Docker', 'CI/CD Pipelines'],
-  testing: ['Selenium', 'Automated Testing']
-};
