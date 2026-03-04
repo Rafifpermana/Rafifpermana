@@ -17,7 +17,7 @@
 
 > Full-Stack Developer passionate about creating innovative web solutions
 
-I'm a **22-year-old Full-Stack Web Developer** from Blitar, Indonesia, currently studying **Computer Science at Gunadarma University**. I specialize in building modern, responsive, and user-friendly web applications with a focus on both frontend aesthetics and backend functionality.
+I'm a **23-year-old Full-Stack Web Developer** from Blitar, Indonesia, currently studying **Computer Science at Gunadarma University**. I specialize in building modern, responsive, and user-friendly web applications with a focus on both frontend aesthetics and backend functionality.
 
 - 🔭 Currently working on AI-powered web applications
 - 🌱 Learning advanced Node.js, Laravel, and Machine Learning
